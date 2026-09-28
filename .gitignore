@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+checkpoints/
+logs/
+*.zip
+*.png
+*.so

@@ -1,0 +1,7 @@
+numpy
+gymnasium
+stable-baselines3[extra]
+torch --index-url https://download.pytorch.org/whl/cpu
+matplotlib
+pybind11
+setuptools
